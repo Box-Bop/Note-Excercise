@@ -1,0 +1,7 @@
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\bin\Debug\NoteExcersise.exe.config
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\bin\Debug\NoteExcersise.exe
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\bin\Debug\NoteExcersise.pdb
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\obj\Debug\NoteExcercise.csprojResolveAssemblyReference.cache
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\obj\Debug\NoteExcercise.csproj.CoreCompileInputs.cache
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\obj\Debug\NoteExcersise.exe
+C:\Users\BocBop\Desktop\NoteExcercise\NoteExcercise\obj\Debug\NoteExcersise.pdb
